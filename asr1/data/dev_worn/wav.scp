@@ -1,0 +1,16 @@
+P05_S02.L sox /data/swatana4/CHiME5/audio/dev/S02_P05.wav -t wav - remix 1 |
+P05_S02.R sox /data/swatana4/CHiME5/audio/dev/S02_P05.wav -t wav - remix 2 |
+P06_S02.L sox /data/swatana4/CHiME5/audio/dev/S02_P06.wav -t wav - remix 1 |
+P06_S02.R sox /data/swatana4/CHiME5/audio/dev/S02_P06.wav -t wav - remix 2 |
+P07_S02.L sox /data/swatana4/CHiME5/audio/dev/S02_P07.wav -t wav - remix 1 |
+P07_S02.R sox /data/swatana4/CHiME5/audio/dev/S02_P07.wav -t wav - remix 2 |
+P08_S02.L sox /data/swatana4/CHiME5/audio/dev/S02_P08.wav -t wav - remix 1 |
+P08_S02.R sox /data/swatana4/CHiME5/audio/dev/S02_P08.wav -t wav - remix 2 |
+P25_S09.L sox /data/swatana4/CHiME5/audio/dev/S09_P25.wav -t wav - remix 1 |
+P25_S09.R sox /data/swatana4/CHiME5/audio/dev/S09_P25.wav -t wav - remix 2 |
+P26_S09.L sox /data/swatana4/CHiME5/audio/dev/S09_P26.wav -t wav - remix 1 |
+P26_S09.R sox /data/swatana4/CHiME5/audio/dev/S09_P26.wav -t wav - remix 2 |
+P27_S09.L sox /data/swatana4/CHiME5/audio/dev/S09_P27.wav -t wav - remix 1 |
+P27_S09.R sox /data/swatana4/CHiME5/audio/dev/S09_P27.wav -t wav - remix 2 |
+P28_S09.L sox /data/swatana4/CHiME5/audio/dev/S09_P28.wav -t wav - remix 1 |
+P28_S09.R sox /data/swatana4/CHiME5/audio/dev/S09_P28.wav -t wav - remix 2 |

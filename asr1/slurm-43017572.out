@@ -1,0 +1,25 @@
+
+Lmod is automatically replacing "intel/18.0" with "gcc/5.5.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) openmpi/3.1
+
+
+Currently Loaded Modules:
+  1) centos7/current     3) gcc/5.5.0     5) cmake/3.15.1
+  2) MARCC/summer-2018   4) openmpi/3.1
+generate CHiME6 from CHiME5...
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/chime6-synchronisation /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1
+Correct for frame dropping
+/data/swatana4/CHiME5
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/CHiME6
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S01.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S05.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S07.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S03.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S02.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S04.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S06.log
+local6/generate_chime6_data.sh: line 90: syntax error near unexpected token `done'
+Finished with job 43017572

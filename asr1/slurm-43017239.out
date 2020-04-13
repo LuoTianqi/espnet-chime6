@@ -1,0 +1,23 @@
+
+Currently Loaded Modules:
+  1) centos7/current     3) cuda/9.2    5) openmpi/3.1
+  2) MARCC/summer-2018   4) gcc/5.5.0   6) cmake/3.15.1
+generate CHiME6 from CHiME5...
+Cloning into 'chime6-synchronisation'...
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/chime6-synchronisation /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1
+Correct for frame dropping
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 127, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S02.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 127, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S06.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 127, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S04.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 127, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S05.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 127, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S07.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 127, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S01.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 127, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S03.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 127, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S17.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 127, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S08.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 127, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S18.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 127, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S13.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 127, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S16.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 127, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S12.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 127, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S09.log
+slurmstepd: error: *** JOB 43017239 ON gpu018 CANCELLED AT 2020-04-08T03:30:54 ***

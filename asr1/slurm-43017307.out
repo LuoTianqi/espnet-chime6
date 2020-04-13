@@ -1,0 +1,332 @@
+
+Currently Loaded Modules:
+  1) centos7/current     3) cuda/9.2    5) openmpi/3.1
+  2) MARCC/summer-2018   4) gcc/5.5.0   6) cmake/3.15.1
+generate CHiME6 from CHiME5...
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/chime6-synchronisation /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1
+Correct for frame dropping
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S01.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S07.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S05.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S03.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S02.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S06.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S04.log
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 2, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S12.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 2, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S09.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 2, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S08.log
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 2, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S17.log
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 2, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S16.log
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 2, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S13.log
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: job failed with status 2, log is in /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S18.log
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S24.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S24.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S24.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S24.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S24.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S22.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S22.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S22.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S22.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S22.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S19.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S19.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S19.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S19.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S19.log 2>&1
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S21.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S21.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S21.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S21.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S21.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S20.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S20.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S20.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S20.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S20.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S23.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S23.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S23.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S23.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S23.log 2>&1
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+Sox processing for correcting clock drift
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S01.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S01.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S01.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S01.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S01.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S05.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S05.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S05.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S05.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S05.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S04.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S04.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S04.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S04.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S04.log 2>&1
+sbatch: error: getcwd failed: No such file or directory
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S07.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S07.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S07.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S07.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S07.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S02.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S02.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S02.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S02.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S02.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S06.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S06.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S06.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S06.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S06.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+sbatch: error: getcwd failed: No such file or directory
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S03.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S03.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S03.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S03.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S03.log 2>&1
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S08.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S08.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S08.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S08.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S08.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S09.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S09.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S09.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S09.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S09.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S12.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S12.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S12.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S12.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S12.log 2>&1
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S18.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S18.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S18.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S18.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S18.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S16.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S16.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S16.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S16.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S16.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S13.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S13.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S13.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S13.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S13.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S17.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S17.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S17.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S17.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S17.log 2>&1
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+Use of uninitialized value $cwd in concatenation (.) or string at /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl line 386.
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S19.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S19.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S19.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S19.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S19.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S23.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S23.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S23.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S23.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S23.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S24.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S24.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S24.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S24.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S24.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S20.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S20.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S20.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S20.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S20.log 2>&1
+sbatch: error: getcwd failed: No such file or directory
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S22.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S22.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S22.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S22.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S22.log 2>&1
+/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/utils/slurm.pl: error submitting jobs to queue (return status was 256)
+queue log file is /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S21.log, command was sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S21.log -o /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S21.log  /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S21.sh >>/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_clock_drift.S21.log 2>&1
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+sbatch: error: getcwd failed: No such file or directory
+adjust the JSON files
+/home-4/tluo9@jhu.edu/miniconda3/bin/python: can't open file 'correct_transcript_for_clock_drift.py': [Errno 116] Stale file handle
+Finished with job 43017307

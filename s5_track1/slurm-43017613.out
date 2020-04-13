@@ -1,0 +1,15 @@
+
+Lmod is automatically replacing "intel/18.0" with "gcc/5.5.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) openmpi/3.1
+
+
+Currently Loaded Modules:
+  1) centos7/current     3) gcc/5.5.0     5) cmake/3.15.1
+  2) MARCC/summer-2018   4) openmpi/3.1
+./run.sh: line 22: ./utils/parse_options.sh: No such file or directory
+/software/lmod/lmod/init/bash: line 16: __lmod_vx: unbound variable
+Phonetisaurus not found on PATH. Please use the script /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/ci/tools/kaldi//tools/extras/install_phonetisaurus.sh to install it
+Finished with job 43017613

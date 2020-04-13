@@ -1,0 +1,45 @@
+# Running on compute0148
+# Started at Wed Apr 8 04:11:14 EDT 2020
+# SLURMD_NODENAME=compute0148
+# SLURM_CHECKPOINT_IMAGE_DIR=/var/slurm/checkpoint
+# SLURM_CLUSTER_NAME=marcc
+# SLURM_CPUS_ON_NODE=1
+# SLURM_EXPORT_ENV=PATH
+# SLURM_GET_USER_ENV=1
+# SLURM_GTIDS=0
+# SLURM_JOBID=43017324
+# SLURM_JOB_ACCOUNT=swatana4
+# SLURM_JOB_CPUS_PER_NODE=1
+# SLURM_JOB_GID=1370
+# SLURM_JOB_ID=43017324
+# SLURM_JOB_NAME=correct_signals_for_frame_drops.S16.sh
+# SLURM_JOB_NODELIST=compute0148
+# SLURM_JOB_NUM_NODES=1
+# SLURM_JOB_PARTITION=shared
+# SLURM_JOB_QOS=normal
+# SLURM_JOB_UID=4591
+# SLURM_JOB_USER=tluo9@jhu.edu
+# SLURM_LOCALID=0
+# SLURM_MEM_PER_CPU=4916
+# SLURM_NNODES=1
+# SLURM_NODEID=0
+# SLURM_NODELIST=compute0148
+# SLURM_NODE_ALIASES='(null)'
+# SLURM_NPROCS=24
+# SLURM_NTASKS=24
+# SLURM_NTASKS_PER_NODE=1
+# SLURM_OPEN_MODE=a
+# SLURM_PROCID=0
+# SLURM_SUBMIT_DIR=/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/chime6-synchronisation
+# SLURM_SUBMIT_HOST=gpu018
+# SLURM_TASKS_PER_NODE=1
+# SLURM_TASK_PID=11830
+# SLURM_TOPOLOGY_ADDR=compute0148
+# SLURM_TOPOLOGY_ADDR_PATTERN=node
+# SLURM_WORKING_CLUSTER=marcc:bc-mgmt:6817:8192
+# /home-4/tluo9@jhu.edu/miniconda3/bin/python correct_signals_for_frame_drops.py --session=S16 chime6_audio_edits.json /data/swatana4/CHiME5/audio /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/CHiME6/audio_tmp 
+/home-4/tluo9@jhu.edu/miniconda3/bin/python: can't open file 'correct_signals_for_frame_drops.py': [Errno 2] No such file or directory
+# Accounting: begin_time=1586333474
+# Accounting: end_time=1586333474
+# Accounting: time=0 threads=1
+# Finished at Wed Apr 8 04:11:14 EDT 2020 with status 2

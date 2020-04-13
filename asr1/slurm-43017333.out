@@ -1,0 +1,7 @@
+
+Currently Loaded Modules:
+  1) centos7/current     3) cuda/9.2    5) openmpi/3.1
+  2) MARCC/summer-2018   4) gcc/5.5.0   6) cmake/3.15.1
+generate CHiME6 from CHiME5...
+./run.sh: line 67: local6/generate_chime6_data.sh: Permission denied
+Finished with job 43017333
