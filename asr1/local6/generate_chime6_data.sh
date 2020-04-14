@@ -19,7 +19,8 @@
 . ./path.sh
 
 # Config:
-cmd=run.pl
+#cmd=run.pl
+cmd=slurm.pl
 
 . utils/parse_options.sh || exit 1;
 
