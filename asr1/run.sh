@@ -38,7 +38,8 @@ n_average=10
 chime5_corpus=/data/swatana4/CHiME5
 # chime6 data directories, which are generated from ${chime5_corpus},
 # to synchronize audio files across arrays and modify the annotation (JSON) file accordingly
-chime6_corpus=${PWD}/CHiME6
+#chime6_corpus=${PWD}/CHiME6
+chime6_corpus=/data/swatana4/CHiME6
 
 # exp tag
 tag="" # tag for managing experiments.
