@@ -23,7 +23,7 @@ echo '#' Accounting: end_time=$time2 >>/scratch/groups/swatana4/tluo/espnet-4-13
 echo '#' Accounting: time=$(($time2-$time1)) threads=1 >>/scratch/groups/swatana4/tluo/espnet-4-13/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S03.log
 echo '#' Finished at `date` with status $ret >>/scratch/groups/swatana4/tluo/espnet-4-13/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S03.log
 [ $ret -eq 137 ] && exit 100;
-touch /scratch/groups/swatana4/tluo/espnet-4-13/egs/chime6/asr1/exp/chime6_data/q/done.99714
+touch /scratch/groups/swatana4/tluo/espnet-4-13/egs/chime6/asr1/exp/chime6_data/q/done.106773
 exit $[$ret ? 1 : 0]
 ## submitted with:
 # sbatch --export=PATH  --ntasks-per-node=1  -p shared  --open-mode=append -e /scratch/groups/swatana4/tluo/espnet-4-13/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S03.log -o /scratch/groups/swatana4/tluo/espnet-4-13/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S03.log  /scratch/groups/swatana4/tluo/espnet-4-13/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S03.sh >>/scratch/groups/swatana4/tluo/espnet-4-13/egs/chime6/asr1/exp/chime6_data/q/correct_signals_for_frame_drops.S03.log 2>&1

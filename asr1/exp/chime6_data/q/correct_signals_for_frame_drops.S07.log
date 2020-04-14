@@ -1,1 +1,2 @@
-Submitted batch job 43188015
+Submitted batch job 43188426
+/var/spool/slurm//job43188426/slurm_script: line 3: ./path.sh: No such file or directory

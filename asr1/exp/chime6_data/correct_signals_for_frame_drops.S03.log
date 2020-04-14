@@ -1,19 +1,19 @@
-# Running on compute0193
-# Started at Wed Apr 8 07:56:52 EDT 2020
-# SLURMD_NODENAME=compute0193
+# Running on compute0165
+# Started at Tue Apr 14 16:59:28 EDT 2020
+# SLURMD_NODENAME=compute0165
 # SLURM_CHECKPOINT_IMAGE_DIR=/var/slurm/checkpoint
 # SLURM_CLUSTER_NAME=marcc
 # SLURM_CPUS_ON_NODE=1
 # SLURM_EXPORT_ENV=PATH
 # SLURM_GET_USER_ENV=1
 # SLURM_GTIDS=0
-# SLURM_JOBID=43017666
+# SLURM_JOBID=43188429
 # SLURM_JOB_ACCOUNT=swatana4
 # SLURM_JOB_CPUS_PER_NODE=1
 # SLURM_JOB_GID=1370
-# SLURM_JOB_ID=43017666
+# SLURM_JOB_ID=43188429
 # SLURM_JOB_NAME=correct_signals_for_frame_drops.S03.sh
-# SLURM_JOB_NODELIST=compute0193
+# SLURM_JOB_NODELIST=compute0165
 # SLURM_JOB_NUM_NODES=1
 # SLURM_JOB_PARTITION=shared
 # SLURM_JOB_QOS=normal
@@ -23,30 +23,22 @@
 # SLURM_MEM_PER_CPU=4916
 # SLURM_NNODES=1
 # SLURM_NODEID=0
-# SLURM_NODELIST=compute0193
+# SLURM_NODELIST=compute0165
 # SLURM_NODE_ALIASES='(null)'
 # SLURM_NPROCS=24
 # SLURM_NTASKS=24
 # SLURM_NTASKS_PER_NODE=1
 # SLURM_OPEN_MODE=a
 # SLURM_PROCID=0
-# SLURM_SUBMIT_DIR=/home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/chime6-synchronisation
-# SLURM_SUBMIT_HOST=gpu037
+# SLURM_SUBMIT_DIR=/scratch/groups/swatana4/tluo/espnet-4-13/egs/chime6/asr1/chime6-synchronisation
+# SLURM_SUBMIT_HOST=gpu049
 # SLURM_TASKS_PER_NODE=1
-# SLURM_TASK_PID=31938
-# SLURM_TOPOLOGY_ADDR=compute0193
+# SLURM_TASK_PID=18980
+# SLURM_TOPOLOGY_ADDR=compute0165
 # SLURM_TOPOLOGY_ADDR_PATTERN=node
 # SLURM_WORKING_CLUSTER=marcc:bc-mgmt:6817:8192
-# /home-4/tluo9@jhu.edu/miniconda3/bin/python correct_signals_for_frame_drops.py --session=S03 chime6_audio_edits.json /data/swatana4/CHiME5/audio /home-net/home-4/tluo9@jhu.edu/tluo9/espnet/egs/chime6/asr1/CHiME6/audio_tmp 
-Traceback (most recent call last):
-  File "correct_signals_for_frame_drops.py", line 132, in <module>
-    main()
-  File "correct_signals_for_frame_drops.py", line 127, in main
-    correct_all_devices(session, frame_drop_data, args.inpath, args.outpath)
-  File "correct_signals_for_frame_drops.py", line 103, in correct_all_devices
-    os.symlink(os.path.realpath(in_wav_fn), os.path.realpath(out_wav_fn))
-FileExistsError: [Errno 17] File exists: '/data/swatana4/CHiME5/audio/train/S03_P09.wav' -> '/data/swatana4/CHiME5/audio/train/S03_P09.wav'
-# Accounting: begin_time=1586347012
-# Accounting: end_time=1586347083
-# Accounting: time=71 threads=1
-# Finished at Wed Apr 8 07:58:03 EDT 2020 with status 1
+# /home-4/tluo9@jhu.edu/miniconda3/bin/python correct_signals_for_frame_drops.py --session=S03 chime6_audio_edits.json /data/swatana4/CHiME5/audio /data/swatana4/CHiME6/audio_tmp 
+# Accounting: begin_time=1586897968
+# Accounting: end_time=1586898220
+# Accounting: time=252 threads=1
+# Finished at Tue Apr 14 17:03:40 EDT 2020 with status 0

@@ -1,0 +1,18 @@
+
+Lmod is automatically replacing "intel/18.0" with "gcc/5.5.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) openmpi/3.1
+
+
+Currently Loaded Modules:
+  1) centos7/current     3) gcc/5.5.0     5) cmake/3.15.1
+  2) MARCC/summer-2018   4) openmpi/3.1
+generate CHiME6 from CHiME5...
+/scratch/groups/swatana4/tluo/espnet-4-13/egs/chime6/asr1/chime6-synchronisation /scratch/groups/swatana4/tluo/espnet-4-13/egs/chime6/asr1
+Correct for frame dropping
+/data/swatana4/CHiME6/audio
+/data/swatana4/CHiME6/audio_tmp
+/scratch/groups/swatana4/tluo/espnet-4-13/egs/chime6/asr1/utils/slurm.pl: job failed with status 1, log is in /scratch/groups/swatana4/tluo/espnet-4-13/egs/chime6/asr1/exp/chime6_data/correct_signals_for_frame_drops.S01.log
+slurmstepd: error: *** JOB 43188380 ON gpu049 CANCELLED AT 2020-04-14T17:07:37 ***
