@@ -123,3 +123,5 @@ md5sum -c ${SYNC_PATH}/audio_md5sums.txt || echo "check https://github.com/chime
 popd
 
 echo "`basename $0` Done."
+
+# end
